@@ -16,4 +16,4 @@ Este é meu primeiro projeto em Power BI feito durante meu processo de aprendiza
 
 ---
 
-📧 Contato: thalesvda92ms@gmail.com
+📧 Contato: thalesilva92ms@gmail.com
